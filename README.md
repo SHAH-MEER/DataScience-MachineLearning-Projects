@@ -38,4 +38,4 @@ DataScience-MachineLearning Projects/
 └── README.md
 ```
 
-Each directory includes code, data, and documentation for a standalone project. Explore, learn, and feel free to contribute or adapt the code to your own analyses!
+Each directory includes code, data, and documentation for a standalone project.
